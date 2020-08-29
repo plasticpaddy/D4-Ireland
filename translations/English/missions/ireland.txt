@@ -1,0 +1,15 @@
+[config]
+name  = ireland
+guiname = "Ireland"
+description = "The Republic of Ireland is a country in north-western Europe occupying 26 of 32 counties of the island of Ireland. The sovereign state is a unitary, parliamentary republic. The legislature, the Oireachtas, consists of a lower house, Dáil Éireann, an upper house, Seanad Éireann, and an elected President (Uachtarán) who serves as the largely ceremonial head of state. The head of government is the Taoiseach who is elected by the Dáil and appointed by the President. The Taoiseach in turn appoints other government ministers."
+jobtitle = "Taoiseach"
+
+[stats]
+Population: = "4.97 million (2020 estimate)"
+Size: = "70,273 sq km"
+Ethnicity: = "91.7% White 2.1% Asian 1.2% Black 5% Other"
+Religion: = "78.3% Catholic 4.2% Protestant 17.5% Other"
+Exports: = "Guinness, U2, St Patrick's Day, RyanAir"
+Main Export Partners: = "United States 27.2% Great Britain 11.8%"
+National Anthem: = "Amhrán na bhFiann (A Soldier's Song)"
+Tourism: = "9 million people visited Ireland in 2017"

@@ -1,0 +1,15 @@
+/*
+!/data/
+/data/*
+!/data/mods/
+/data/mods/*
+!/data/mods/Ireland.txt
+!/data/svg/
+/data/svg/*
+!/data/svg/map_ireland.svg
+!/Ireland/
+!/translations/
+/translations/English/*
+!/translations/English/missions
+/translations/English/missions/*
+!/translations/English/missions/ireland.txt

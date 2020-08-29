@@ -1,0 +1,6 @@
+[config]
+name = "Ireland"
+path = "Ireland"
+guiname = "Ireland"
+author = "PlasticPaddy"
+description = "Ireland 2020."

@@ -1,0 +1,96 @@
+[config]
+currency = "€"
+population = 2450
+economic_cycle_start = 0.43
+min_income = 0
+max_income = 150000
+min_gdp = 800000
+max_gdp = 323335
+wealth_mod = 4.79
+fx_rate_to_pound = 1.2
+starting_debt = 204044
+name  = ireland
+names_file = "Ireland/data/names/irishnames_1981.txt"
+flag = "flag_ireland.png"
+apathy = 0.4
+map = "map_ireland.svg"
+GUID = 0
+
+
+[policies]
+AgricultureSubsidies = 0.45
+AirlineTax = 0.2
+AlcoholTax = 0.65
+ArtsSubsidies = 0.63
+BorderControls = 0.34
+BusLanes = 0.6
+CCTVCameras = 0.8
+CapitalGainsTax = 0.2
+CarTax = 0.44
+ChildBenefit = 0.6
+CleanEnergySubsidies = 0.3
+CommunityPolicing = 0.7
+CorporationTax = 0.37
+Creationism = 0.8
+DisabilityBenefit = 0.6
+ExecutiveTermLimit = 1.0
+ExecutiveTermLength = 0.5
+FamilyPlanning = 0.75
+FoodStandards = 0.6
+ForeignAid = 0.61
+ForeignInvestorTaxBreaks = 0.25
+FreeBusPasses = 0.65
+GameHunting = 0.65
+GayMarriage = 0.75
+GenderDiscriminationAct = 0.25
+GenderTransition = 0.2
+GraduateTax = 0.4
+IncomeTax = 0.45
+InheritanceTax = 0.3
+IntellectualPropertyRights = 0.9
+JudiciaryIndependence = 0.85
+JuryTrial = 0.6
+LabourLaws = 0.36
+LegalAid = 0.6
+MaternityLeave = 0.66
+MilitarySpending = 0.46
+MinimumWage = 0.5
+Narcotics = 0
+PayrollTax = 0.5
+PetrolTax = 0.56
+PollutionControls = 0.6
+PressFreedom = 0.85
+PrisonerTagging = 0.29
+PrisonRegime = 0.3
+PropertyTax = 0.27
+RaceDiscriminationAct = 0.8
+Recycling = 0.43
+SalesTax = 0.51
+ScienceFunding = 0.53
+SelectiveSchooling = 0.75
+SpeedCameras = 0.4
+SocialCare = 0.1
+StateBroadcaster = 0.55
+StateHealthService = 0.68
+StateHousing = 0.45
+StatePensions = 0.61
+StateSchools = 0.67
+Tasers = 0.34
+TobaccoTax = 0.3
+UnemployedBenefit = 0.62
+WinterFuelSubsidy = 0.55
+WorkSafetyLaw = 0.69
+_prereq_has_coast = 1
+
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+
